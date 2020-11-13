@@ -1,3 +1,4 @@
+// code contributed by vikram
 #include<stdio.h>
 #include<stdlib.h>
 struct node
